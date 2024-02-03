@@ -1,5 +1,5 @@
 # Admin_Task_Management_Using_Angular
-this app helps admin to manage his tasks.
+this app helps admin to manage his tasks.\n
 how to run?
 1.first download and extract both files.
 3.open the complaints2312024 folder in vscode.
