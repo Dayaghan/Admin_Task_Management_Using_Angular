@@ -1,7 +1,7 @@
 # Admin_Task_Management_Using_Angular
-this app helps admin to manage his tasks.
-how to run?
-1.first download and extract both files.
+this app helps admin to manage his tasks.<br>
+how to run?<br>
+1.first download and extract both files.<br>
 3.open the complaints2312024 folder in vscode.
 2.open the complaints-1 folder in sts(spring tool suite) workspace.
 3.in sts,double click on complaints-1,in src folder, open application.properties.
