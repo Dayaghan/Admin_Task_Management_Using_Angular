@@ -2,7 +2,7 @@
 this app helps admin to manage his tasks.<br>
 how to run?<br>
 1.first download and extract spring file.<br>
-2. the second file link is <a href="https://drive.google.com/file/d/15uX3FHATzdp0qRIpf2FMSQFJzpqzZrEu/viewhere">click here</a><br>
+2. the second file link is <a href="https://drive.google.com/file/d/15uX3FHATzdp0qRIpf2FMSQFJzpqzZrEu/view">click here</a><br>
 2.open the complaints2312024 folder in vscode.<br>
 3.open the complaints-1 folder in sts(spring tool suite) workspace.<br>
 4.in sts,double click on complaints-1,in src folder, open application.properties.<br>
